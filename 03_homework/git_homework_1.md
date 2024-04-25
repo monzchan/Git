@@ -9,9 +9,13 @@
     * `git add <filename>` then `git commit`
 5. Write a suitable commit message and finalize your commit
 6. 📸 Take a screenshot of your terminal output
+7. ![image](https://github.com/monzchan/Git/assets/166637673/82cab5ca-e4ab-4335-b731-485549455efc)
+
 8. Show the commit history
     * `git log`
 9. 📸 Take a screenshot of your terminal output
+10. ![image](https://github.com/monzchan/Git/assets/166637673/0bb5b3ca-95f6-42f8-aa68-01e8e1387ef1)
+
 
 ### Task 2
 1. Create a new public repository on GitHub
@@ -19,6 +23,7 @@
     * `git remote add origin <url>`
 3. Push your local `githomework1` repository to GitHub
 4. Include your repository URL in your submission
+https://github.com/monzchan/testforhw2.git
 
 ### Task 3
 1. Create a new branch called `playing-with-bash`
